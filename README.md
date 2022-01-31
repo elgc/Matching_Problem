@@ -1,4 +1,4 @@
-# Matching_Problem for the selection of mentor-mentee pairs in a a leadership training program #
+# Matching_Problem for the selection of mentor-mentee pairs in a leadership training program #
 
 This repository provides a function to solve the Matching Marriage Problem. The *stable* matching problem is one of finding a bijection from the elements of one set to the elements of the other set. A matching is stable when there does not exist any match (i, j) --"i" element of first group and "j" element of second group-- which both prefer each other to their current partner under the matching.
 
